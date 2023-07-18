@@ -1,0 +1,6 @@
+0. start.sh
+files.txt
+hello_bash.txt
+output.txt
+run_all.sh
+var_dt.sh
